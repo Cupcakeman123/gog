@@ -1,9 +1,7 @@
 h3
-{
-    font-size: 25px;
-}
-
-canvas
-{
-    border: 2px dashed black;
-}
+  {
+    font-size: 25px !important;
+  }
+  canvas {
+    border:2px dashed black;
+  }
